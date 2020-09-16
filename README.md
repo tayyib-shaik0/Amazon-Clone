@@ -1,3 +1,11 @@
+## Deployed with Firebase:
+Link: https://clone-7ea6d.web.app/
+
+## Used:
+* React Context API
+* React hook - useEffect
+* React Router
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
